@@ -1,0 +1,45 @@
+.container-chart{
+    width: 90%;
+    margin-bottom: 100px;
+    margin-left: 5%;
+}
+
+.btn{
+    width: 100px;
+    height: 25px;
+    padding: 2px;
+    background-color: rgb(30, 84, 145);
+    border-radius: 10px;
+    color: white;
+    float: right;
+    border: none;
+}
+
+.btn:hover{
+    background-color: #1a83ff;
+    cursor: pointer;
+    color: white;
+}
+
+.btn-container1{
+    margin-top: 20px;
+    margin-right: 40%;
+    margin-bottom: 100px;
+}
+
+.bar-country{
+    margin-left: 5%;
+}
+
+@media (max-width: 770px){
+    .container-chart{
+        margin: 0%;
+        padding: 0%;
+        width: 100%;
+    }
+
+    .container{
+        margin-left: 2%;
+        margin-right: 0;
+    }
+}

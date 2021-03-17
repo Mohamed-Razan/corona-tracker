@@ -1,0 +1,7 @@
+.container-comparison{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin-bottom: 100px;
+    margin-left: 5%;
+}
